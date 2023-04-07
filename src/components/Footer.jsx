@@ -17,11 +17,11 @@ const Footer = () => {
             <p className='footer-text'>Conatct us <br /><br /> </p>
             <p className='footer-text'>Privacy Policy<br /><br /> </p>
             <p className='footer-text'>Terms and conditons<br /><br /><br /><br /><br /><br /> </p><hr />
-            <p className='footer-text'>&copy; Tushar Softwares , All right reserved 2022 </p>
+            <p className='footer-text'>&copy; Shriya Softwares , All right reserved 2022 </p>
           </div>
           <div className="col">
-            <p className='footer-text'>H.no. 71 Harnam nagar , Kapurthala (144601) , Punjab , India<br /><br /> </p>
-            <p className='footer-text'>Email: tushargupta2k3@gmail.com </p>
+            <p className='footer-text'>428/322 Attarsuiya Near Gol Park Prayagraj Uttar Pradesh<br /><br /> </p>
+            <p className='footer-text'>Email: shriyapurwar@gmail.com </p>
           </div>
         </div>
       </div>
